@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-- 🔭 I’m currently working on building analytical platform of the future
+- 🔭 I’m currently working on building a Walmart analytics platform of the future
 - 🌱 I’m currently learning github and python for pbi
 - 👯 I’m looking to collaborate on anything interesting
 - 🤔 I’m looking for help with using LLM to analyze pbi dataset results
